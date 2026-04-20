@@ -1,6 +1,6 @@
 # Student Info
 
-- Name: 
-- Roll Number: 
-- Section: 
-- GitHub Username: 
+- Name: kanakam pavani
+- Roll Number: 160125771094
+- Section: aids-2
+- GitHub Username: pavanitelugugaming-ui
